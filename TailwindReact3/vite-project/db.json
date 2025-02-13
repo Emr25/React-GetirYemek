@@ -1,0 +1,53 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Tavuk Sote",
+        "description": "Bu ürün 1'in açıklamasıdır.",
+        "price": 50,
+        "image": "https://icon2.cleanpng.com/lnd/20240422/itc/transparent-salad-healthy-salad-with-croutons-tomatoes-cheese662664e93717f0.45652271.webp"
+      },
+      {
+        "id": 2,
+        "name": "Yağlı Et Sote",
+        "description": "Bu ürün 2'nin açıklamasıdır.",
+        "price": 100,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZ7VU7W4eVEWcWyY8Oc3WY5VKlr5GED1-hMGmANAGLfFLoZLAM8t4s9wNidUdKzg4t2I&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "name": "Pirzola",
+        "description": "Bu ürün 3'ün açıklamasıdır.",
+        "price": 150,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qJYcb6dzjpx9ZFQvCZasldao6fWJ2SAYe1KTfcpDmEYU8PkjhzAKzr17oGqNWRf2fNw&usqp=CAU"
+      },
+      {
+        "id": 4,
+        "name": "Biftek",
+        "description": "Bu ürün 3'ün açıklamasıdır.",
+        "price": 250,
+        "image": "https://e7.pngegg.com/pngimages/519/334/png-clipart-pepper-steak-meat-food-food-food-beef-thumbnail.png"
+      },
+      {
+        "id": 5,
+        "name": "Köfte",
+        "description": "Bu ürün 3'ün açıklamasıdır.",
+        "price": 150,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3WvCZ0EAJXQgtJwN0kzBfl7T78LBfzUa95g&s"
+      },
+      {
+       "id": 6,
+        "name": "Pizza",
+        "description": "Bu ürün 3'ün açıklamasıdır.",
+        "price": 550,
+        "image": " https://w1.pngwing.com/pngs/249/88/png-transparent-pizza-slice-pizza-italian-cuisine-sicilian-pizza-pizza-margherita-garlic-bread-takeout-pizza-by-the-slice.png"
+      },
+      {
+        "id": 7,
+        "name": "Hamburger",
+        "description": "Bu ürün 3'ün açıklamasıdır.",
+        "price": 160,
+        "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7qTx1gy9g13PS8v6f-QcQzxYr6qTkNHXgrg&s"
+      }
+    ]
+  }
